@@ -1,1 +1,136 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgbW90aW9uIH0gZnJvbSAiZnJhbWVyLW1vdGlvbiI7CmltcG9ydCB7IEJyYWluLCBDcHUsIE5ldHdvcmssIFNwYXJrbGVzIH0gZnJvbSAibHVjaWRlLXJlYWN0IjsKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKCmludGVyZmFjZSBQYXJ0aWNsZSB7CiAgaWQ6IG51bWJlcjsKICBsZWZ0OiBzdHJpbmc7CiAgdG9wOiBzdHJpbmc7CiAgZHVyYXRpb246IG51bWJlcjsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG9tZSgpIHsKICBjb25zdCBbcGFydGljbGVzLCBzZXRQYXJ0aWNsZXNdID0gdXNlU3RhdGU8UGFydGljbGVbXT4oW10pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgY29uc3QgcGFydGljbGVzQXJyYXkgPSBbLi4uQXJyYXkoMjApXS5tYXAoKF8sIGkpID0+ICh7CiAgICAgIGlkOiBpLAogICAgICBsZWZ0OiBgJHtNYXRoLnJhbmRvbSgpICogMTAwfSVgLAogICAgICB0b3A6IGAke01hdGgucmFuZG9tKCkgKiAxMDB9JWAsCiAgICAgIGR1cmF0aW9uOiBNYXRoLnJhbmRvbSgpICogMyArIDIsCiAgICB9KSk7CiAgICBzZXRQYXJ0aWNsZXMocGFydGljbGVzQXJyYXkpOwogIH0sIFtdKTsKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJtaW4taC1zY3JlZW4gYmctYmxhY2sgdGV4dC13aGl0ZSBmbGV4IGZsZXgtY29sIGl0ZW1zLWNlbnRlciBqdXN0aWZ5LWNlbnRlciByZWxhdGl2ZSBvdmVyZmxvdy1oaWRkZW4iPgogICAgICB7LyogQmFja2dyb3VuZCBncmFkaWVudCAqL30KICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgYmctZ3JhZGllbnQtdG8tYiBmcm9tLWJsdWUtOTAwLzIwIHRvLWJsYWNrIHBvaW50ZXItZXZlbnRzLW5vbmUiIC8+CiAgICAgIAogICAgICB7LyogQW5pbWF0ZWQgZ3JpZCBiYWNrZ3JvdW5kICovfQogICAgICA8ZGl2IGNsYXNzTmFtZT0iYWJzb2x1dGUgaW5zZXQtMCBiZy1bbGluZWFyLWdyYWRpZW50KHJnYmEoMjU1LDI1NSwyNTUsMC4wNSlfMXB4LHRyYW5zcGFyZW50XzFweCksbGluZWFyLWdyYWRpZW50KDkwZGVnLHJnYmEoMjU1LDI1NSwyNTUsMC4wNSlfMXB4LHRyYW5zcGFyZW50XzFweCldIGJnLVtzaXplOjEwMHB4XzEwMHB4XSBbbWFzay1pbWFnZTpyYWRpYWwtZ3JhZGllbnQoZWxsaXBzZV81MCVfNTAlX2F0XzUwJV81MCUsYmxhY2tfNzAlLHRyYW5zcGFyZW50XzEwMCUpXSIgLz4KCiAgICAgIHsvKiBNYWluIGNvbnRlbnQgKi99CiAgICAgIDxkaXYgY2xhc3NOYW1lPSJyZWxhdGl2ZSB6LTEwIG1heC13LTR4bCBteC1hdXRvIHB4LTQgdGV4dC1jZW50ZXIiPgogICAgICAgIHsvKiBDb21pbmcgU29vbiB0ZXh0IHdpdGggc3RhZ2dlciBhbmltYXRpb24gKi99CiAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC44IH19CiAgICAgICAgICBjbGFzc05hbWU9Im1iLTgiCiAgICAgICAgPgogICAgICAgICAgPG1vdGlvbi5oMSAKICAgICAgICAgICAgY2xhc3NOYW1lPSJ0ZXh0LTZ4bCBmb250LWJvbGQgYmctY2xpcC10ZXh0IHRleHQtdHJhbnNwYXJlbnQgYmctZ3JhZGllbnQtdG8tciBmcm9tLWJsdWUtNTAwIHRvLXB1cnBsZS02MDAiCiAgICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgc2NhbGU6IDAuNSB9fQogICAgICAgICAgICBhbmltYXRlPXt7IG9wYWNpdHk6IDEsIHNjYWxlOiAxIH19CiAgICAgICAgICAgIHRyYW5zaXRpb249e3sKICAgICAgICAgICAgICBkdXJhdGlvbjogMC44LAogICAgICAgICAgICAgIGRlbGF5OiAwLjIsCiAgICAgICAgICAgICAgZWFzZTogWzAsIDAuNzEsIDAuMiwgMS4wMV0KICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgQ29taW5nIFNvb24KICAgICAgICAgIDwvbW90aW9uLmgxPgogICAgICAgIDwvbW90aW9uLmRpdj4KCiAgICAgICAgey8qIE1haW4gbWVzc2FnZSAqL30KICAgICAgICA8bW90aW9uLnAKICAgICAgICAgIGluaXRpYWw9e3sgb3BhY2l0eTogMCwgeTogMjAgfX0KICAgICAgICAgIGFuaW1hdGU9e3sgb3BhY2l0eTogMSwgeTogMCB9fQogICAgICAgICAgdHJhbnNpdGlvbj17eyBkdXJhdGlvbjogMC44LCBkZWxheTogMC40IH19CiAgICAgICAgICBjbGFzc05hbWU9InRleHQteGwgbWQ6dGV4dC0yeGwgdGV4dC1ncmF5LTMwMCBtYi0xMiBsZWFkaW5nLXJlbGF4ZWQiCiAgICAgICAgPgogICAgICAgICAgQSBuZXcgZXJhIG9mIGludGVsbGlnZW50IHRyYW5zZm9ybWF0aW9uIGlzIGNvbWluZyEg8J+agCBVbmxvY2sgdGhlIHBvd2VyIG9mIG11bHRpbW9kYWwgaW50ZWxsaWdlbmNlIGFuZCBtdWx0aS1hZ2VudCBhdXRvbWF0aW9uIHRvIHJlZGVmaW5lIHdoYXQncyBwb3NzaWJsZS4gU3RheSB0dW5lZCBmb3Igc29tZXRoaW5nIHJldm9sdXRpb25hcnkhCiAgICAgICAgPC9tb3Rpb24ucD4KCiAgICAgICAgey8qIEZlYXR1cmUgaWNvbnMgKi99CiAgICAgICAgPG1vdGlvbi5kaXYgCiAgICAgICAgICBjbGFzc05hbWU9ImdyaWQgZ3JpZC1jb2xzLTIgbWQ6Z3JpZC1jb2xzLTQgZ2FwLTggbXQtMTYiCiAgICAgICAgICBpbml0aWFsPSJoaWRkZW4iCiAgICAgICAgICBhbmltYXRlPSJ2aXNpYmxlIgogICAgICAgICAgdmFyaWFudHM9e3sKICAgICAgICAgICAgaGlkZGVuOiB7IG9wYWNpdHk6IDAgfSwKICAgICAgICAgICAgdmlzaWJsZTogewogICAgICAgICAgICAgIG9wYWNpdHk6IDEsCiAgICAgICAgICAgICAgdHJhbnNpdGlvbjogewogICAgICAgICAgICAgICAgZGVsYXlDaGlsZHJlbjogMC4zLAogICAgICAgICAgICAgICAgc3RhZ2dlckNoaWxkcmVuOiAwLjIKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAge1sKICAgICAgICAgICAgeyBpY29uOiBCcmFpbiwgdGV4dDogIkFJIEludGVsbGlnZW5jZSIgfSwKICAgICAgICAgICAgeyBpY29uOiBOZXR3b3JrLCB0ZXh0OiAiTXVsdGktQWdlbnQgU3lzdGVtcyIgfSwKICAgICAgICAgICAgeyBpY29uOiBDcHUsIHRleHQ6ICJOZXVyYWwgUHJvY2Vzc2luZyIgfSwKICAgICAgICAgICAgeyBpY29uOiBTcGFya2xlcywgdGV4dDogIlNtYXJ0IEF1dG9tYXRpb24iIH0KICAgICAgICAgIF0ubWFwKChpdGVtLCBpbmRleCkgPT4gKAogICAgICAgICAgICA8bW90aW9uLmRpdgogICAgICAgICAgICAgIGtleT17aW5kZXh9CiAgICAgICAgICAgICAgdmFyaWFudHM9e3sKICAgICAgICAgICAgICAgIGhpZGRlbjogeyB5OiAyMCwgb3BhY2l0eTogMCB9LAogICAgICAgICAgICAgICAgdmlzaWJsZTogewogICAgICAgICAgICAgICAgICB5OiAwLAogICAgICAgICAgICAgICAgICBvcGFjaXR5OiAxCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICBjbGFzc05hbWU9ImZsZXggZmxleC1jb2wgaXRlbXMtY2VudGVyIGdhcC00IHAtNiByb3VuZGVkLXhsIGJnLXdoaXRlLzUgYmFja2Ryb3AtYmx1ci1zbSBob3ZlcjpiZy13aGl0ZS8xMCB0cmFuc2l0aW9uLWNvbG9ycyIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIDxpdGVtLmljb24gY2xhc3NOYW1lPSJ3LTggaC04IHRleHQtYmx1ZS00MDAiIC8+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtbWVkaXVtIHRleHQtZ3JheS0zMDAiPntpdGVtLnRleHR9PC9wPgogICAgICAgICAgICA8L21vdGlvbi5kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L21vdGlvbi5kaXY+CgogICAgICAgIHsvKiBGbG9hdGluZyBwYXJ0aWNsZXMgKi99CiAgICAgICAgPGRpdiBjbGFzc05hbWU9ImFic29sdXRlIGluc2V0LTAgcG9pbnRlci1ldmVudHMtbm9uZSI+CiAgICAgICAgICB7cGFydGljbGVzLm1hcCgocGFydGljbGUpID0+ICgKICAgICAgICAgICAgPG1vdGlvbi5kaXYKICAgICAgICAgICAgICBrZXk9e3BhcnRpY2xlLmlkfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iYWJzb2x1dGUgdy0xIGgtMSBiZy1ibHVlLTUwMCByb3VuZGVkLWZ1bGwiCiAgICAgICAgICAgICAgYW5pbWF0ZT17ewogICAgICAgICAgICAgICAgeDogWzAsIE1hdGgucmFuZG9tKCkgKiAxMDAgLSA1MF0sCiAgICAgICAgICAgICAgICB5OiBbMCwgTWF0aC5yYW5kb20oKSAqIDEwMCAtIDUwXSwKICAgICAgICAgICAgICAgIG9wYWNpdHk6IFswLCAxLCAwXSwKICAgICAgICAgICAgICAgIHNjYWxlOiBbMCwgMSwgMF0sCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICB0cmFuc2l0aW9uPXt7CiAgICAgICAgICAgICAgICBkdXJhdGlvbjogcGFydGljbGUuZHVyYXRpb24sCiAgICAgICAgICAgICAgICByZXBlYXQ6IEluZmluaXR5LAogICAgICAgICAgICAgICAgcmVwZWF0VHlwZTogImxvb3AiLAogICAgICAgICAgICAgICAgZWFzZTogImVhc2VJbk91dCIsCiAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgbGVmdDogcGFydGljbGUubGVmdCwKICAgICAgICAgICAgICAgIHRvcDogcGFydGljbGUudG9wLAogICAgICAgICAgICAgIH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICApKX0KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9
+"use client";
+
+import { motion } from "framer-motion";
+import { Brain, Cpu, Network, Sparkles } from "lucide-react";
+import { useEffect, useState } from "react";
+// test this as well
+
+interface Particle {
+  id: number;
+  left: string;
+  top: string;
+  duration: number;
+}
+
+export default function Home() {
+  const [particles, setParticles] = useState<Particle[]>([]);
+
+  useEffect(() => {
+    const particlesArray = [...Array(20)].map((_, i) => ({
+      id: i,
+      left: `${Math.random() * 100}%`,
+      top: `${Math.random() * 100}%`,
+      duration: Math.random() * 3 + 2,
+    }));
+    setParticles(particlesArray);
+  }, []);
+
+  return (
+    <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center relative overflow-hidden">
+      {/* Background gradient */}
+      <div className="absolute inset-0 bg-gradient-to-b from-blue-900/20 to-black pointer-events-none" />
+      
+      {/* Animated grid background */}
+      <div className="absolute inset-0 bg-[linear-gradient(rgba(255,255,255,0.05)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,0.05)_1px,transparent_1px)] bg-[size:100px_100px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,black_70%,transparent_100%)]" />
+
+      {/* Main content */}
+      <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
+        {/* Coming Soon text with stagger animation */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8 }}
+          className="mb-8"
+        >
+          <motion.h1 
+            className="text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-600"
+            initial={{ opacity: 0, scale: 0.5 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{
+              duration: 0.8,
+              delay: 0.2,
+              ease: [0, 0.71, 0.2, 1.01]
+            }}
+          >
+            Coming Soon
+          </motion.h1>
+        </motion.div>
+
+        {/* Main message */}
+        <motion.p
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.4 }}
+          className="text-xl md:text-2xl text-gray-300 mb-12 leading-relaxed"
+        >
+          A new era of intelligent transformation is coming! 🚀 Unlock the power of multimodal intelligence and multi-agent automation to redefine what's possible. Stay tuned for something revolutionary!
+        </motion.p>
+
+        {/* Feature icons */}
+        <motion.div 
+          className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-16"
+          initial="hidden"
+          animate="visible"
+          variants={{
+            hidden: { opacity: 0 },
+            visible: {
+              opacity: 1,
+              transition: {
+                delayChildren: 0.3,
+                staggerChildren: 0.2
+              }
+            }
+          }}
+        >
+          {[
+            { icon: Brain, text: "AI Intelligence" },
+            { icon: Network, text: "Multi-Agent Systems" },
+            { icon: Cpu, text: "Neural Processing" },
+            { icon: Sparkles, text: "Smart Automation" }
+          ].map((item, index) => (
+            <motion.div
+              key={index}
+              variants={{
+                hidden: { y: 20, opacity: 0 },
+                visible: {
+                  y: 0,
+                  opacity: 1
+                }
+              }}
+              className="flex flex-col items-center gap-4 p-6 rounded-xl bg-white/5 backdrop-blur-sm hover:bg-white/10 transition-colors"
+            >
+              <item.icon className="w-8 h-8 text-blue-400" />
+              <p className="text-sm font-medium text-gray-300">{item.text}</p>
+            </motion.div>
+          ))}
+        </motion.div>
+
+        {/* Floating particles */}
+        <div className="absolute inset-0 pointer-events-none">
+          {particles.map((particle) => (
+            <motion.div
+              key={particle.id}
+              className="absolute w-1 h-1 bg-blue-500 rounded-full"
+              animate={{
+                x: [0, Math.random() * 100 - 50],
+                y: [0, Math.random() * 100 - 50],
+                opacity: [0, 1, 0],
+                scale: [0, 1, 0],
+              }}
+              transition={{
+                duration: particle.duration,
+                repeat: Infinity,
+                repeatType: "loop",
+                ease: "easeInOut",
+              }}
+              style={{
+                left: particle.left,
+                top: particle.top,
+              }}
+            />
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
