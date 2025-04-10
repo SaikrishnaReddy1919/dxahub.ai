@@ -1,4 +1,5 @@
 "use client";
+// testing inside app test
 
 import { motion } from "framer-motion";
 import { Brain, Cpu, Network, Sparkles } from "lucide-react";
